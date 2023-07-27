@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Beach-side/static/css/main.30a17603.css",
+    "main.js": "/Beach-side/static/js/main.00ad3755.js",
+    "index.html": "/Beach-side/index.html",
+    "main.30a17603.css.map": "/Beach-side/static/css/main.30a17603.css.map",
+    "main.00ad3755.js.map": "/Beach-side/static/js/main.00ad3755.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.30a17603.css",
+    "static/js/main.00ad3755.js"
+  ]
+}
